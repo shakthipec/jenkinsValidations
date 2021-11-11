@@ -82,5 +82,4 @@ sonarqube {
         property "sonar.host.url", "http://localhost:9000"
         property "sonar.coverage.jacoco.xmlReportPath", "${buildDir}/reports/jacoco.xml"
     }
-
 }
